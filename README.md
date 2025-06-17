@@ -1,6 +1,6 @@
 Archive.
 
-Dependencies:
+**Dependencies:**
 - PyCharm
 - [https://youtu.be/FtqWCo1_I4g?si=kK0xB5C6V8pgx-Ut](url)
 
